@@ -7,7 +7,7 @@ In this project, we will help CredX identify the right customers using predictiv
 
  
 
-Understanding the data
+Understanding the data:
 There are two data sets in this project — demographic and credit bureau data.  
 
 Demographic/application data: This is obtained from the information provided by the applicants at the time of credit card application. It contains customer-level information on age, gender, income, marital status, etc.
